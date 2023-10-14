@@ -1,9 +1,11 @@
+
+
 import Navbar from '@/components/Navbar';
 import './globals.css';
 import type { Metadata } from 'next';
 import Footer from '@/components/Footer';
 
-export const metadata: Metadata = {
+export const metadata = {
   title: 'Travel',
   description: 'Travel UI/UX App for Camping',
 };
